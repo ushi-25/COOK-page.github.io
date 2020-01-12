@@ -105,7 +105,7 @@ h1{
     list-style: none;
     display:block;
     border-bottom:1px dashed black;
-    background-image:url(../TASK/image/CookCamp/images/icon/arrow.png);
+    background-image:url(./image/CookCamp/images/icon/arrow.png);
     background-repeat:no-repeat;
     background-position: 1px 7px;
 }
@@ -145,7 +145,7 @@ h2{
     padding: 5px 5px 5px 39px;
     text-align: left;
     font-size: 18px;
-    background-image:url(../TASK/image/CookCamp/images/icon/dish.png);
+    background-image:url(./image/CookCamp/images/icon/dish.png);
     background-repeat:no-repeat;
     background-position: 13px 7px;
     font-weight: 600;
@@ -181,7 +181,7 @@ figure{
 
 .more{
     text-align: right;
-    background-image:url("../TASK/image/CookCamp/images/icon/arrow.png");
+    background-image:url("./image/CookCamp/images/icon/arrow.png");
     background-repeat:no-repeat;
     background-position: 213px 3px;
     display:block;
